@@ -7,3 +7,7 @@ This repository contains the code and write-up for a Master’s thesis on high-f
 2. **A suite of ABIDES agents** that plug in both jump-PDE–based and classical Avellaneda–Stoikov quoting rules into an agent-based limit-order-book simulation.  
 3. **Benchmark agents** including zero-intelligence noise traders, mean-reverting value traders, momentum traders, and adaptive participation-of-volume liquidity providers.  
 4. **A written Master’s thesis** (PDF) describing the mathematical derivations, numerical methods, simulation setup, and empirical results.
+5. **Credit goes to** https://github.com/AlbertLin0327/Least-Square-Monte-Carlo.git, whose code for LSMC is used as a foundation to create the backward value function solver; furthermore ChatGPT that speeded up the code writing process.
+6. **The Code almost surely will contain some minor mistakes so that any pointed out mistake will be greatly appreciated** 
+
+   
